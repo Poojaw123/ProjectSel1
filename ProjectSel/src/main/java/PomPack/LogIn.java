@@ -8,6 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 public class LogIn 
 {
 	
+	//pom classes
 	@FindBy (xpath="//input[@class='_2IX_2- VJZDxU\']")
 	WebElement username;
 	
